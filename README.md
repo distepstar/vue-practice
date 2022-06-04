@@ -1,5 +1,3 @@
-# ninja-job
-
 ## Project setup
 ```
 npm install
